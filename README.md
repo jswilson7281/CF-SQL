@@ -1,6 +1,7 @@
 # CF-SQL
 The work I have done in SQL as part of my data analytics course through CareerFoundry.
 This project revolved around the theoretical company Rockbuster LLC, and working through the following scenario:
+
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the
 world. Facing stiff competition from streaming services such as Netflix and Amazon Prime,
 the Rockbuster Stealth management team is planning to use its existing movie licenses to
